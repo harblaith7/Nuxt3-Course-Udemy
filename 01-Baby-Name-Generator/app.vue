@@ -1,8 +1,31 @@
-<script setup>
-const options = reactive({
-  gender: "Girl",
-  popularity: "Unique",
-  length: "Long",
+<script setup lang="ts">
+enum Gender {
+  GIRL = "Girl",
+  BOY = "Boy",
+  UNISEX = "Unisex",
+}
+
+enum Popularity {
+  TRENDY = "Trendy",
+  UNIQUE = "Unique",
+}
+
+enum Length {
+  SHORT = "Short",
+  LONG = "Long",
+  ALL = "All",
+}
+
+interface OptionsState {
+  gender: Gender;
+  popularity: Popularity;
+  length: Length;
+}
+
+const options = reactive<OptionsState>({
+  gender: Gender.GIRL,
+  length: Length.SHORT,
+  popularity: Popularity.TRENDY,
 });
 </script>
 
@@ -16,19 +39,22 @@ const options = reactive({
         <div class="option-buttons">
           <button
             class="option option-left"
-            :class="options.gender === 'Boy' && 'option-active'"
+            :class="options.gender === Gender.BOY && 'option-active'"
+            @click="options.gender = Gender.BOY"
           >
             Boy
           </button>
           <button
             class="option"
-            :class="options.gender === 'Unisex' && 'option-active'"
+            :class="options.gender === Gender.UNISEX && 'option-active'"
+            @click="options.gender = Gender.UNISEX"
           >
             Unisex
           </button>
           <button
             class="option option-right"
-            :class="options.gender === 'Girl' && 'option-active'"
+            :class="options.gender === Gender.GIRL && 'option-active'"
+            @click="options.gender = Gender.GIRL"
           >
             Girl
           </button>
@@ -39,36 +65,41 @@ const options = reactive({
         <div class="option-buttons">
           <button
             class="option option-left"
-            :class="options.popularity === 'Trendy' && 'option-active'"
+            :class="options.popularity === Popularity.TRENDY && 'option-active'"
+            @click="options.popularity = Popularity.TRENDY"
           >
             Trendy
           </button>
           <button
             class="option option-right"
-            :class="options.popularity === 'Unique' && 'option-active'"
+            :class="options.popularity === Popularity.UNIQUE && 'option-active'"
+            @click="options.popularity = Popularity.UNIQUE"
           >
             Unique
           </button>
         </div>
       </div>
       <div class="option-container">
-        <h4>2) Choose name's length</h4>
+        <h4>3) Choose name's length</h4>
         <div class="option-buttons">
           <button
             class="option option-left"
-            :class="options.length === 'Long' && 'option-active'"
+            :class="options.length === Length.LONG && 'option-active'"
+            @click="options.length = Length.LONG"
           >
             Long
           </button>
           <button
             class="option"
-            :class="options.length === 'All' && 'option-active'"
+            :class="options.length === Length.ALL && 'option-active'"
+            @click="options.length = Length.ALL"
           >
             All
           </button>
           <button
             class="option option-right"
-            :class="options.length === 'Short' && 'option-active'"
+            :class="options.length === Length.SHORT && 'option-active'"
+            @click="options.length = Length.SHORT"
           >
             Short
           </button>
