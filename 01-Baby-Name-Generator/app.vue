@@ -80,7 +80,6 @@ const optionsArray = [
 h1 {
   font-size: 3rem;
 }
-
 .options-container {
   background-color: rgb(255, 238, 236);
   border-radius: 2rem;
