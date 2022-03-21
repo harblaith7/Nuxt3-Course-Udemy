@@ -1,11 +1,13 @@
 <script setup lang="ts">
+
 import { Gender, Length, Popularity } from "@/data";
 
 interface OptionProps {
   option: {
     title: string;
     category: string;
-    buttons: Gender[];
+    buttons: Gender[] | Popularity[] | Length[];
+
   };
   options: {
     gender: Gender;
@@ -18,8 +20,11 @@ const props = defineProps<OptionProps>();
 
 const computeButtonClasses = (value, index) => {
   const classNames = [];
-  if (props.options[props.option.category] === value)
+
+  if (props.options[props.option.category] === value) {
     classNames.push("option-active");
+  }
+
   if (index === 0) classNames.push("option-left");
   if (index === props.option.buttons.length - 1)
     classNames.push("option-right");

@@ -31,7 +31,7 @@ const optionsArray = [
   {
     title: "1) Choose a gender",
     category: "gender",
-    buttons: [Gender.GIRL, Gender.BOY, Gender.UNISEX],
+    buttons: [Gender.GIRL, Gender.UNISEX, Gender.BOY],
   },
   {
     title: "2) Choose the name's popularity",
