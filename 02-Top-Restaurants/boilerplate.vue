@@ -1,29 +1,24 @@
 <script setup lang="ts">
-import restaurants from "@/data.json";
-
-const route = useRoute();
-const name = route.params.name;
-
-const restaurant = restaurants.find((r) => r.name === name);
+import restaurants from "./data.json";
 </script>
 
 <template>
   <div>
     <div class="restaurant-container">
       <div class="image-container">
-        <img :src="restaurant.imageUrl" alt="" />
+        <img :src="image" alt="" />
       </div>
       <div class="info-container">
-        <h1>{{ restaurant.name }}</h1>
+        <h1>name</h1>
         <div class="stats-container">
           <h5>Revenue (in billions)</h5>
-          <p>${{ restaurant.revenue }}</p>
+          <p>$revenue</p>
         </div>
         <div class="stats-container">
           <h5>Number of Stores</h5>
-          <p>{{ restaurant.numberOfStores }}</p>
+          <p>133331</p>
         </div>
-        <p class="content">{{ restaurant.content }}</p>
+        <p class="content">content</p>
       </div>
     </div>
   </div>
