@@ -9,7 +9,7 @@ const restaurant = restaurants.find((r) => r.name === name);
 
 <template>
   <div>
-    <div class="restaurant-container">
+    <div v-if="restaurant" class="restaurant-container">
       <div class="image-container">
         <img :src="restaurant.imageUrl" alt="" />
       </div>
@@ -25,6 +25,15 @@ const restaurant = restaurants.find((r) => r.name === name);
         </div>
         <p class="content">{{ restaurant.content }}</p>
       </div>
+    </div>
+    <div v-else class="restaurant-not-found">
+      <h1>Restaurant not found</h1>
+      <button
+        class="btn btn-primary btn-lg"
+        @click="$router.push('/restaurants')"
+      >
+        Go Back
+      </button>
     </div>
   </div>
 </template>
