@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "rank": 1,
+    "name": "McDonalds",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "39,222",
+    "imageUrl": "https://images.unsplash.com/photo-1602400236316-f5e3b6d2314c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=5070&q=80"
+  },
+  {
+    "id": 2,
+    "rank": 2,
+    "name": "Starbucks",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 26.5,
+    "numberOfStores": "33,295",
+    "imageUrl": "https://images.unsplash.com/photo-1592321675774-3de57f3ee0dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHN0YXJidWNrc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 3,
+    "rank": 3,
+    "name": "Chick-fil-A",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 4.3,
+    "numberOfStores": "2,774",
+    "imageUrl": "https://images.unsplash.com/photo-1558883188-817ab9ecf395?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpY2slMjBmaWwlMjBBfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 4,
+    "rank": 4,
+    "name": "Taco Bell",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 4.22,
+    "numberOfStores": "7,072",
+    "imageUrl": "https://www.tacobell.ca/static/images/homepage/bottom-right-mobile.ce18cb836e49.jpg"
+  },
+  {
+    "id": 5,
+    "rank": 5,
+    "name": "Wendy's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 4.01,
+    "numberOfStores": "6,534",
+    "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/7A97/production/_118438313_wendys.jpg"
+  },
+  {
+    "id": 6,
+    "rank": 6,
+    "name": "Burger King",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 3.97,
+    "numberOfStores": "6,933",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/106936180-1630511993739-gettyimages-1234486065-PWeaver-Milton-210804-04.jpeg?v=1630512088"
+  },
+  {
+    "id": 7,
+    "rank": 7,
+    "name": "Dunkin'",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 3.95,
+    "numberOfStores": "8,522",
+    "imageUrl": "https://www.boston.com/wp-content/uploads/2021/11/Dunkin-holiday-drinks-61815ecc2952c.jpg"
+  },
+  {
+    "id": 8,
+    "rank": 8,
+    "name": "Subway",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 16.4,
+    "numberOfStores": "37,343",
+    "imageUrl": "https://cdn.britannica.com/08/193908-050-66767D57/view-Subway-restaurant-Bangkok-Thailand.jpg"
+  },
+  {
+    "id": 9,
+    "rank": 9,
+    "name": "Domino's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/fe/c3/86/domino-s-pizza.jpg"
+  },
+  {
+    "id": 10,
+    "rank": 10,
+    "name": "Chipotle Mexican Grill",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 14.4,
+    "numberOfStores": "2,333",
+    "imageUrl": "https://www.investopedia.com/thmb/2sLc9U9RNVeFblgbDxh_uL1tnC4=/680x440/filters:fill(auto,1)/shutterstock_186861896-5bfc33c646e0fb00517d7538.jpg"
+  },
+  {
+    "id": 11,
+    "rank": 11,
+    "name": "Sonic Drive-In",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 4.7,
+    "numberOfStores": "3.563",
+    "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-07/SonicEXT.jpg?itok=X6-nYuXg"
+  },
+  {
+    "id": 12,
+    "rank": 12,
+    "name": "Pizza Hut",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 1.04,
+    "numberOfStores": "18,435",
+    "imageUrl": "https://www.ottawabusinessjournal.com/wp-content/uploads/2019/07/e5e17083-273e-40f5-91cf-63a5ca339e99-ea3557c8-71a1-48e8-967f-4c166054baab-pizza-image_no-text.jpg"
+  },
+  {
+    "id": 13,
+    "rank": 13,
+    "name": "Panera Bread",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 2.8,
+    "numberOfStores": "2,333",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAONmid71xguDSR8lHs4QWYNjsauHfYgBTEQ&usqp=CAU"
+  },
+  {
+    "id": 14,
+    "rank": 14,
+    "name": "KFC",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 28.5,
+    "numberOfStores": "24,536",
+    "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2020/03/kfc-sign-GettyImages-921240630.jpg"
+  },
+  {
+    "id": 15,
+    "rank": 15,
+    "name": "Popeyes Louisiana Kitchen",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.godairyfree.org/wp-content/uploads/2009/12/fast-food-popeyes.jpg"
+  },
+  {
+    "id": 16,
+    "rank": 16,
+    "name": "Arby's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media-exp1.licdn.com/dms/image/C561BAQFOQyq-un_zNw/company-background_10000/0/1519796443509?e=2159024400&v=beta&t=0Olg06sblnfDhRfh8DRNvGDJFxZrO2072lkQHhvV5N8"
+  },
+  {
+    "id": 17,
+    "rank": 17,
+    "name": "Dairy Queen",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/story/blizzard-incentives.jpg?itok=9R-RrxC9"
+  },
+  {
+    "id": 18,
+    "rank": 18,
+    "name": "Little Caesars",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.masslive.com/resizer/M1NIHyzJjJdMcvw_LZt7jSwXFc8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2JI5P5VPDBEQNJR5CAYRC5VCMU.jpg"
+  },
+  {
+    "id": 19,
+    "rank": 19,
+    "name": "Panda Express",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.seriouseats.com/thmb/n1EmSyrh7pEal-eSsXEYzuKyDqg=/1500x844/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__05__20140514-panda-express-sign-2e429c96c13746fb8d648e1b8eca9c80.jpg"
+  },
+  {
+    "id": 20,
+    "rank": 20,
+    "name": "Jack in the Box",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/story/jack-box-expects-product-innovation-drive-growth.jpg?itok=tj3dRL1G"
+  },
+  {
+    "id": 21,
+    "rank": 21,
+    "name": "Olive Garden",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media.olivegarden.com/en_us/images/marketing/olive-garden-tuscan-italian-restaurant-g5-rdv.jpg"
+  },
+  {
+    "id": 22,
+    "rank": 22,
+    "name": "Papa John's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://fox59.com/wp-content/uploads/sites/21/2021/11/PapaJOhnsGettyImages-1044350104.jpg?w=1280"
+  },
+  {
+    "id": 23,
+    "rank": 23,
+    "name": "Buffalo Wild Wings",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.mashed.com/img/gallery/scandals-that-buffalo-wild-wings-can-never-live-down/intro-1602864744.jpg"
+  },
+  {
+    "id": 24,
+    "rank": 24,
+    "name": "Applebee's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.nrn.com/sites/nrn.com/files/applebees-storefront.png"
+  },
+  {
+    "id": 25,
+    "rank": 25,
+    "name": "Chili's Grill & Bar",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/a4/b9/e7/chili-s-grill-bar.jpg"
+  },
+  {
+    "id": 26,
+    "rank": 26,
+    "name": "Whataburger",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f29710fdb2bffa70809fa0f%2FWhataburger%2F960x0.jpg%3Ffit%3Dscale"
+  },
+  {
+    "id": 27,
+    "rank": 27,
+    "name": "Texas Roadhouse",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/Om_vzCuDw_nMBs6RDOlYdHfpApQ=/0x0:1000x439/1200x800/filters:focal(421x92:581x252)/cdn.vox-cdn.com/uploads/chorus_image/image/66890945/Texas_Roadhouse.0.jpg"
+  },
+  {
+    "id": 28,
+    "rank": 28,
+    "name": "IHOP",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media.blogto.com/articles/20210816-ihop.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70"
+  },
+  {
+    "id": 29,
+    "rank": 29,
+    "name": "Outback Steakhouse",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.nrn.com/sites/nrn.com/files/Bloomin-Brands-Outback-Q3-strides-toward-multi-channel.jpg"
+  },
+  {
+    "id": 30,
+    "rank": 30,
+    "name": "Zaxby's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://nmgprod.s3.amazonaws.com/media/files/1b/c9/1bc93563b43c4752c7203dd4f44507c5/cover_image_1620397420.jpg.760x400_q85_crop_upscale.jpg"
+  },
+  {
+    "id": 31,
+    "rank": 31,
+    "name": "Culver's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.mashed.com/img/gallery/what-you-dont-know-about-culvers/intro-1560520860.jpg"
+  },
+  {
+    "id": 32,
+    "rank": 32,
+    "name": "Jimmy John's Gourmet Sandwiches",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://s11284.pcdn.co/wp-content/uploads/2020/06/jimmy-johns-sandwich-shop-700x467.jpg.optimal.jpg"
+  },
+  {
+    "id": 33,
+    "rank": 33,
+    "name": "Wingstop",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-11/Wingstop.jpg?itok=BLKTA-Z-"
+  },
+  {
+    "id": 34,
+    "rank": 34,
+    "name": "Hardee's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hardee%27s%2C_Salem%2C_Virginia_.jpg"
+  },
+  {
+    "id": 35,
+    "rank": 35,
+    "name": "Cracker Barrel",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F06%2F05%2Fcracker-barrel-reopening-testing-alcohol-sales-FT-BLOG0620.jpg"
+  },
+  {
+    "id": 36,
+    "rank": 36,
+    "name": "Red Lobster",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/931/524/Red-Lobster-iStock.jpg?ve=1&tl=1"
+  },
+  {
+    "id": 37,
+    "rank": 37,
+    "name": "Denny's",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.nrn.com/sites/nrn.com/files/Dennys-off-premises-sales-Burger-Den-Melt-Down-Q2-2021.jpg"
+  },
+  {
+    "id": 38,
+    "rank": 38,
+    "name": "Raising Cane's Chicken Fingers",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": ""
+  },
+  {
+    "id": 39,
+    "rank": 39,
+    "name": "Five Guys",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.gannett-cdn.com/presto/2021/05/01/NVIC/bfadcf26-3bd0-41ba-be08-585c996f25f5-Raising_Canes.jpg?auto=webp&crop=767,432,x0,y39&format=pjpg&width=1200"
+  },
+  {
+    "id": 40,
+    "rank": 40,
+    "name": "Jersey Mike's Subs",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.jerseymikes.ca/media/static/locations/1.jpg"
+  },
+  {
+    "id": 41,
+    "rank": 41,
+    "name": "LongHorn Steakhouse",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://i.ytimg.com/vi/8KwRTE91U9I/maxresdefault.jpg"
+  },
+  {
+    "id": 42,
+    "rank": 42,
+    "name": "The Cheesecake Factory",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/Is5STGnbZqVB_hV43MzFReLWneg=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19832787/Cheesecake_Factory.jpg"
+  },
+  {
+    "id": 43,
+    "rank": 43,
+    "name": "Bojangles",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.al.com/resizer/X2ZnTmIKqrG4RFpbSUSQco1Rfag=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WNRWZSHLQVGEBNOJHGATJT7HHI.jpg"
+  },
+  {
+    "id": 44,
+    "rank": 44,
+    "name": "Carl's Jr.",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": ""
+  },
+  {
+    "id": 45,
+    "rank": 45,
+    "name": "In-N-Out Burger",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://hips.hearstapps.com/del.h-cdn.co/assets/16/35/2560x1920/sd-aspect-1472672403-1659715513-dcdcd9dd17-o.jpg?resize=480:*"
+  },
+  {
+    "id": 46,
+    "rank": 46,
+    "name": "Red Robin",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.mashed.com/img/gallery/the-real-reason-red-robin-is-struggling/intro-1553611735.jpg"
+  },
+  {
+    "id": 47,
+    "rank": 47,
+    "name": "El Pollo Loco",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/El-Pollo-Loco-Remodel_1615569606.png?VersionId=wruIYBU_U4juOW6GMUJ0nyZuzMHWo1PB"
+  },
+  {
+    "id": 48,
+    "rank": 48,
+    "name": "Del Taco",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/del-taco-refranchises-san-diego-market.jpg?itok=o1zpCTL8"
+  },
+  {
+    "id": 49,
+    "rank": 49,
+    "name": "Qdoba Mexican Eats",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/zBEzySds-coOKCa7Ymm2H56gr6A=/0x0:3500x2336/1200x800/filters:focal(1470x888:2030x1448)/cdn.vox-cdn.com/uploads/chorus_image/image/58037473/L_Omaha-1-2.0.0.jpg"
+  },
+  {
+    "id": 50,
+    "rank": 50,
+    "name": "Firehouse Subs",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium maiores reprehenderit at culpa atque, dolorum tempore dignissimos nobis ipsam, aliquid iure accusantium natus quam dolor neque optio dolore cum! Laborum veritatis et sed soluta minima fuga impedit inventore doloremque at, reiciendis esse neque obcaecati voluptatum nemo. Omnis ducimus, perspiciatis dolores quidem optio adipisci explicabo facere consequatur, aspernatur fuga, molestias iure laboriosam obcaecati ipsa quasi. Iure dolorem dignissimos odio quisquam. Maiores quasi et laudantium aliquid sequi soluta unde hic optio deleniti!",
+    "revenue": 42.4,
+    "numberOfStores": "12,333",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJM5nrxZjrmUw3VpbmiRzil2TyCZXyQ2mx5w&usqp=CAU"
+  }
+]
