@@ -1,5 +1,11 @@
 <script setup lang="ts">
-const { data: todos } = useFetch("/api/todo");
+const input = ref("");
+const { todos, addTodo, updateTodo, deleteTodo } = useTodos();
+
+const handleClick = () => {
+  addTodo(input.value);
+  input.value = "";
+};
 </script>
 
 <template>
@@ -7,12 +13,17 @@ const { data: todos } = useFetch("/api/todo");
     <NCard class="cards">
       <h1>My Todos</h1>
       <div class="add-todo">
-        <input placeholder="Add a new todo..." />
-        <NButton>Add</NButton>
+        <input placeholder="Add a new todo..." v-model="input" />
+        <NButton @click="handleClick">Add</NButton>
       </div>
-      <NCard class="card" v-for="todo in todos" :key="todo.is">
-        <h4>{{ todo.item }}</h4>
-        <p>x</p>
+      <NCard
+        @click="() => updateTodo(todo.id)"
+        class="card"
+        v-for="todo in todos"
+        :key="todo.id"
+      >
+        <h4 :class="todo.completed ? 'complete' : null">{{ todo.item }}</h4>
+        <p @click="() => deleteTodo(todo.id)">x</p>
       </NCard>
     </NCard>
   </div>
@@ -44,5 +55,9 @@ input {
   cursor: pointer;
   display: flex;
   justify-content: space-between;
+}
+
+.complete {
+  text-decoration: line-through;
 }
 </style>

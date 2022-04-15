@@ -6,6 +6,7 @@ export default defineEventHandler(async (e) => {
   const method = e.req.method;
 
   if (method === "GET") {
+    console.log(db.todos);
     return db.todos;
   }
 
