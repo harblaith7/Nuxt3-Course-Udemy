@@ -9,6 +9,7 @@
     "nuxt3": "latest"
   },
   "dependencies": {
+    "@nuxt/ui": "^0.0.0-alpha.5",
     "uuid": "^8.3.2"
   }
 }
