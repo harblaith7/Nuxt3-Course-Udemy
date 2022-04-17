@@ -14,7 +14,7 @@ const useAuth = () => {
       },
       {
         data: metadata,
-        redirectTo: `${window.location.origin}/profile?source=email`,
+        redirectTo: `${window.location.origin}/myprofile?source=email`,
       }
     );
     if (error) throw error;
@@ -35,11 +35,16 @@ const useAuth = () => {
     if (error) throw error;
   };
 
+  const isLoggedIn = () => {
+    return !!user.value;
+  };
+
   return {
     user,
     signUp,
     signIn,
     signOut,
+    isLoggedIn,
   };
 };
 

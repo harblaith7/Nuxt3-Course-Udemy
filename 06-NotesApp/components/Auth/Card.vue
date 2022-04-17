@@ -20,7 +20,7 @@ const handleSubmit = async () => {
   try {
     if (authState.value === "login") {
       await signIn({ email: input.email, password: input.password });
-      router.push("/profile");
+      router.push("/myprofile");
     } else {
       await signUp({ email: input.email, password: input.password });
       showConfirmEmailMessage.value = true;
