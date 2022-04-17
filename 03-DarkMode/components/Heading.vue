@@ -1,11 +1,19 @@
+<script setup lang="ts">
+const { isDarkMode } = useDarkMode();
+</script>
+
 <template>
   <div class="container">
     <div class="content-container">
       <div class="text-container">
         <h4>Based on your reading history</h4>
-        <h2>Designing search for mobile apps</h2>
-        <p class="date">Aug 26th, 2021, 4pm</p>
-        <p class="snippet">
+        <h2 :style="isDarkMode ? { color: 'white' } : null">
+          Designing search for mobile apps
+        </h2>
+        <p :style="isDarkMode ? { color: 'white' } : null" class="date">
+          Aug 26th, 2021, 4pm
+        </p>
+        <p :style="isDarkMode ? { color: 'white' } : null" class="snippet">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, in.
           Obcaecati in iusto minima impedit assumenda perferendis natus tempore
           modi ducimus. Blanditiis, quis. Maxime delectus ducimus assumenda vel
