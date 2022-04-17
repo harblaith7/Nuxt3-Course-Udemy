@@ -20,9 +20,19 @@ const useAuth = () => {
     return u;
   };
 
+  const signIn = async ({ email, password }) => {
+    const { user: u, error } = await supabase.auth.signIn({
+      email,
+      password,
+    });
+    if (error) throw error;
+    return u;
+  };
+
   return {
     user,
     signUp,
+    signIn,
   };
 };
 
