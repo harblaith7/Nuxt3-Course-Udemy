@@ -5,7 +5,7 @@ const input = reactive({
   email: "",
 });
 
-const { signUp, signIn, user } = useAuth();
+const { signUp, signIn, user, signOut } = useAuth();
 
 const toggleAuthState = () => {
   if (authState.value === "login") authState.value = "signup";
@@ -19,6 +19,8 @@ const handleSubmit = () => {
   } else {
     signUp({ email: input.email, password: input.password });
   }
+  input.email = "";
+  input.password = "";
 };
 </script>
 
@@ -28,11 +30,11 @@ const handleSubmit = () => {
       <h3>{{ authState }}</h3>
       {{ user }}
       <div class="input-container">
-        {{ input.password }}
         <input placeholder="Email" v-model="input.email" />
         <input placeholder="Password" v-model="input.password" />
       </div>
       <NButton @click="handleSubmit">Submit</NButton>
+      <NButton @click="signOut">Logout</NButton>
       <p @click="toggleAuthState">
         {{
           authState === "login"
